@@ -13,3 +13,9 @@
     font-size: 5rem;
     font-style: italic;
 }
+.soldados{
+    border-style: dashed;
+    letter-spacing: 1rem;
+    padding: 1rem;
+    
+}
